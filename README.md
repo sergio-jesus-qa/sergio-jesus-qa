@@ -1,41 +1,35 @@
-# 👋 Olá! Eu sou Sérgio Jesus
+# 👋 Olá! Eu sou o Sérgio Jesus
 
-Atualmente sou **QA Júnior** em aprendizado, focado em **testes manuais** e **automação com Cypress**.  
-Estou estudando e praticando para evoluir minhas habilidades em **qualidade de software** e automação de testes.
-
----
-
-## 🎯 Objetivo deste Portfólio
-
-Este repositório reúne meus estudos e pequenos projetos para registrar meu aprendizado em QA.  
-Aqui você encontrará exemplos de **testes manuais**, **scripts com Cypress** e exercícios práticos.
+Sou **QA Júnior em formação**, focado em **testes manuais** e **começando a aprender automação com Cypress**.  
+Estou documentando meus estudos e projetos aqui para mostrar meu progresso em Quality Assurance (QA).
 
 ---
 
-## 🛠️ Habilidades em Desenvolvimento
+## 🎯 O que você encontra neste repositório
 
-- Testes manuais (planejamento, execução e registro de resultados)  
-- Testes automatizados com Cypress (em aprendizado)  
-- Documentação de casos de teste  
-- Registro de bugs e feedbacks  
+Este repositório é meu **portfólio de QA em desenvolvimento** — ele contém:
 
-> Estou constantemente aprendendo novas ferramentas e boas práticas de QA.
-
----
-
-## 📂 Conteúdos
-
-- Casos de teste criados durante estudos  
-- Scripts de automação simples com Cypress  
-- Exercícios práticos e pequenos projetos  
+- 📋 **Casos de teste manuais** (cenários, passos e resultados esperados)
+- 🐞 **Registros de bugs** que encontrei e documentei
+- ⚙️ **Testes automatizados com Cypress** que estou praticando
+- 📚 **Exercícios e pequenos projetos** que uso para aprender e fixar conceitos
 
 ---
 
-## 📫 Contato
+## 🛠️ Tecnologias e ferramentas que estou estudando
 
-📧 Email: sergido102@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sergio-luiz-561868343/ 
+- 🧪 Testes manuais (planejamento e execução)  
+- 🔁 Cypress (automação de testes UI)  
+- 📝 Documentação de casos de teste e bugs  
+- 💻 Git e GitHub para versionamento e organização
 
 ---
 
-✨ Obrigado por visitar meu portfólio! Estou aberto a sugestões e oportunidades para crescer na área de QA.
+## 📫 Quer falar comigo?
+
+📧 **Email:** sergido102@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sergio-luiz-561868343/
+
+---
+
+✨ Obrigado por visitar meu portfólio! Estou aberto a **feedbacks, colaborações e oportunidades na área de QA**.
