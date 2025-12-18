@@ -1,35 +1,33 @@
-# 👋 Olá! Eu sou o Sérgio Jesus
+# Olá, eu sou Sérgio Jesus 👋
 
-Sou **QA Júnior em formação**, focado em **testes manuais** e **começando a aprender automação com Cypress**.  
-Estou documentando meus estudos e projetos aqui para mostrar meu progresso em Quality Assurance (QA).
+**QA Júnior em formação** | Apaixonado por garantir a qualidade de software  
 
----
+Atualmente estudando e praticando **Testes Manuais** e **Automação Básica** com Cypress. Buscando a primeira oportunidade como QA Tester para aplicar meus conhecimentos e crescer na área.
 
-## 🎯 O que você encontra neste repositório
+### 🚀 Habilidades e Ferramentas
+- Testes Manuais (Casos de Teste, Matriz de Rastreabilidade)
+- Relatórios de Bugs (com screenshots e passos claros)
+- Automação de Testes UI com **Cypress**
+- Controle de Versão com **Git & GitHub**
+- Noções de Python para scripting e suporte a testes
+- Ferramentas: Jira (básico), Postman (API testing básico)
 
-Este repositório é meu **portfólio de QA em desenvolvimento** — ele contém:
+### 📚 Projetos em Destaque
+- [Qa-portfolio](https://github.com/sergio-jesus-qa/Qa-portfolio)  
+  Portfólio completo com exemplos reais de testes manuais, relatórios de bugs e scripts de automação.
 
-- 📋 **Casos de teste manuais** (cenários, passos e resultados esperados)
-- 🐞 **Registros de bugs** que encontrei e documentei
-- ⚙️ **Testes automatizados com Cypress** que estou praticando
-- 📚 **Exercícios e pequenos projetos** que uso para aprender e fixar conceitos
+- [sergiod102](https://github.com/sergio-jesus-qa/sergiod102)  
+  Exercícios práticos em Python – base para automação de testes.
 
----
+### 📈 Meu Progresso
+Estou commitando regularmente para mostrar consistência nos estudos. Em 2025, foquei em:
+- Criar casos de teste reais
+- Automatizar cenários com Cypress
+- Documentar bugs de forma profissional
 
-## 🛠️ Tecnologias e ferramentas que estou estudando
+### 📫 Contato
+- ✉️ Email: sergido102@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sergio-luiz-561868343
+- 🇵🇹 Disponível para vagas em Portugal (presencial/remoto)
 
-- 🧪 Testes manuais (planejamento e execução)  
-- 🔁 Cypress (automação de testes UI)  
-- 📝 Documentação de casos de teste e bugs  
-- 💻 Git e GitHub para versionamento e organização
-
----
-
-## 📫 Quer falar comigo?
-
-📧 **Email:** sergido102@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sergio-luiz-561868343/
-
----
-
-✨ Obrigado por visitar meu portfólio! Estou aberto a **feedbacks, colaborações e oportunidades na área de QA**.
+Obrigado por visitar meu perfil! 😊
